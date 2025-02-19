@@ -2,5 +2,5 @@
 
 ### Ma TO DO LIST ###
 
-- Créer le dépôt
-- 
+- [X] Créer le dépôt
+- [] Modifier le fichier principal de documentation du repo `README.md`
